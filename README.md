@@ -1,4 +1,4 @@
-# A DALL-E 3 Plugin for C# Semantic Kernel
+# A DALL-E 3 C# Plugin for Semantic Kernel v1.0.1
 
 This plugin uses the OpenAI REST API to submit a prompt to the DALL-E 3 model and return the resulting URL.
 
