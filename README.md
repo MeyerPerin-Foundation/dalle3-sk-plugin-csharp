@@ -36,3 +36,6 @@ string? url = await kernel.InvokeAsync<string>(
 
 Console.Write(url);
 ```
+## Sample image generated with the plugin
+
+![A cat sitting on a couch in the style of Monet](cat_impressionist.png)
